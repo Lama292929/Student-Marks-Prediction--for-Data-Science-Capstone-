@@ -27,8 +27,8 @@ The goal is to Predict student's marks of students by their studying average tim
 
 
 <h2> File Description </h2> 
-
-The data consists of Marks of students including their study time & number of courses. The dataset is downloaded from kaggle
+Student Marks Prediction for Data Science Capstone1.ipynb : The notebook which contain the model and data analysis
+Student_Marks.csv: The data consists of Marks of students including their study time & number of courses. The dataset is downloaded from kaggle
 
 
 
