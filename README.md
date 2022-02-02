@@ -9,8 +9,7 @@
 
 <h2> Installation </h2> 
 
-You need to be able to work in a Jupyter Notebook on your computer. The following packages (libraries) need to be installed. 
-The following packages (libraries) need to be installed: <br>
+You need to be able to work in a Jupyter Notebook on your computer. The following packages (libraries) need to be installed.  <br>
 import numpy as np <br>
 import pandas as pd <br>
 import matplotlib.pyplot as plt <br>
