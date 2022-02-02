@@ -39,4 +39,3 @@ The main findings of the code can be found at the post available at medium link
 <h2> Licensing, Authors, Acknowledgements </h2>
 Must give credit to Kaggle for the data. You can find the Licensing for the data and other descriptive information at the kaggle link 
 https://www.kaggle.com/yasserh/student-marks-dataset
-![image](https://user-images.githubusercontent.com/93437050/152192493-e1933509-42aa-41d8-b743-ebd909ebbaa3.png)
